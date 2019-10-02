@@ -16,7 +16,7 @@
             <th class="th-lg">Nama Penyakit</th>
             <th class="th-lg">Gejala</th>
             <th class="th-lg"></th>
-
+            <th class="th-lg">Cari</th>
           </tr>
         </thead>
         <tbody>
